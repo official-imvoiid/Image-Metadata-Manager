@@ -1,4 +1,4 @@
-# Image Metadata Manager 🖼️
+# 🖼️ Image Metadata Manager 
 
 A comprehensive GUI-based tool for viewing, editing, adding, and removing metadata from image files. Supports both single image operations and bulk processing with recursive folder scanning.
 
