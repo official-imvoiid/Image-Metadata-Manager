@@ -9,4 +9,5 @@ sudo apt install -y exiftool
 
 echo
 echo "Done installation!"
-echo "Now you can use start.sh"
+echo "Use this to make Start.sh Exicutable: chmod +x Start.sh"
+echo "Then use ./start.sh to Start the program"
